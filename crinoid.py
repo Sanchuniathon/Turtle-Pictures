@@ -59,4 +59,5 @@ for j in range(n):
         turtle.fd(s*10)
         turtle.left(360 // n + 180)
         turtle.fd(s*10)
+        
 input()

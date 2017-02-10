@@ -35,7 +35,6 @@ turtle.end_fill()
 turtle.pu()
 
 
-
 ##########################################draw crinoid 1a
 #set beginning draw position (a,b) stalk curvature (h), initial orientation (o), pensize(p) and size (s)
 a=85

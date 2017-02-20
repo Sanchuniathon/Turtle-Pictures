@@ -22,7 +22,6 @@ for i in ["#33bbff","#1ab2ff","#00aaff","#0099e6","#0088cc","#0077b3","#006699",
 
 
 
-
 #draw seafloor
 turtle.setheading(0)
 turtle.setposition(-750,-100)
